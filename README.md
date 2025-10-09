@@ -13,8 +13,8 @@
 ## ✨ 주요 구현 내용
 
 ### 1. 이미지 스무딩 (Smoothing)
--   **가우시안 필터(Gaussian Filter)**를 직접 구현하여 이미지(`sonoma.png`)에 적용합니다.
--   필터의 **커널 크기(Kernel Size)**와 **표준편차(Sigma)** 값을 변경해가며 스무딩 결과가 어떻게 달라지는지 분석합니다.
+-   **가우시안 필터(Gaussian Filter)** 를 직접 구현하여 이미지(`sonoma.png`)에 적용합니다.
+-   필터의 **커널 크기(Kernel Size)** 와 **표준편차(Sigma)** 값을 변경해가며 스무딩 결과가 어떻게 달라지는지 분석합니다.
 
 ### 2. 이미지 업샘플링 (Upsampling)
 -   이미지(`cat.png`)를 8배 확대하는 업샘플링을 두 가지 방식으로 구현합니다.
@@ -75,4 +75,5 @@
 
 ## 📜 저작권 (Copyright)
 본 과제물의 모든 코드와 내용의 저작권은 원 출제자이신 **김한울 교수님**께 있습니다.
+
 Copyright © 2025 Han-wool Kim. All Rights Reserved.
