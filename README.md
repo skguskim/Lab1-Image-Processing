@@ -76,4 +76,4 @@
 ## 📜 저작권 (Copyright)
 본 과제물의 모든 코드와 내용의 저작권은 원 출제자이신 **김한울 교수님**께 있습니다.
 
-Copyright © 2025 Han-wool Kim. All Rights Reserved.
+Copyright © 2025 Hanul Kim. All Rights Reserved.
